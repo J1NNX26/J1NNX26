@@ -59,4 +59,4 @@ I curently work as a Cyber Security Engineer and my job is to find and fix poten
 [email]: mailto:jeenikanadani96@gmail.com
 [twitter]: https://twitter.com/J1NNX26
 [linkedin]: https://www.linkedin.com/in/jeenika
-[discord]: https://www.discord.com/in/J1NX#1263
+[discord]: https://www.discordapp.com/users/J1NX#1263
