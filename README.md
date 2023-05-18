@@ -7,7 +7,7 @@
 <div align="center">
   
 [![Github](https://img.shields.io/github/followers/J1NNX26?label=Follow&style=social)](https://github.com/J1NNX26)
-[![Twitter Follow](https://img.shields.io/twitter/follow/J1NNX26?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=J1NNX26) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/J1NNX26?label=Twitter&style=social)](https://twitter.com/intent/follow?screen_name=J1NNX26) 
  
 </div>
 
