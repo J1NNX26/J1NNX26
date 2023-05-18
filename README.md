@@ -1,16 +1,62 @@
-### Hi there 👋
+<div align="center">
+  <h1> Hi there 👋 <br>My name is Jeenika</h1>
+</div>
 
-<!--
-**J1NNX26/J1NNX26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
+  
+[![Github](https://img.shields.io/github/followers/jeenikanadani?label=Follow&style=social)](https://github.com/J1NNX26)
+[![Twitter Follow](https://img.shields.io/twitter/follow/J1NNX26?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=J1NNX26) 
+ 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I am a Cyber Security Engineer from India :india:
+
+I curently work as a Cyber Security Engineer and my job is to find and fix potential security problems, so people can use the digital systems safely and securely as well make sure that digital information is protected from bad guys who want to steal or damage it.
+
+##### BIO :woman_technologist:
+
+- 🌍&nbsp;&nbsp; I'm mostly active on the **Twitter & Linkedin**
+- 🌱&nbsp;&nbsp; Exploring Technical Content Writing
+- ⚡️&nbsp;&nbsp; Fun fact: I'm a big fan of cats 🐱‍💻
+- :zap: In my free time, I read books and listen to music.
+- 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [discord] or [linkedin].
+
+##### RECENT BLOG POST :books:
+
+<!-- BLOG:START -->
+- [Foundational Concepts of Cyber Security Principles](https://j1nx.info/2023/05/11/foundational-concepts-of-cyber-security-principles/)
+- [A Beginner’s Guide to the Most Common IT Compliance Standards](https://j1nx.info/2023/03/10/beginners-guide-to-the-most-common-it-compliance-standards/)
+- [DNS 101: The Basics of Domain Name System](https://j1nx.info/2023/02/10/dns-101-the-basics-of-domain-name-system/)
+- [DNS 101: DNS Attacks](https://j1nx.info/2023/02/10/dns-101-dns-attacks/)
+- [Breaking Down CORS, SOP & CSP](https://j1nx.info/2023/02/04/breaking-down-cors-sop-csp/)
+<!-- BLOG:END -->
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=J1NNX26&theme=graywhite&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<p align="center">
+<a href= "https://instagram.com/j1nnx26">
+<img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" alt="Jeenika's instagram profile" width="28px"/></a>
+&emsp;
+<a href="https://j1nx.info">
+<img src="https://img.icons8.com/material/256/000000/globe--v1.png" alt="Jeenika's Blogsite" width="28px"/></a>
+&emsp;
+<a href="https://linkedin.com/in/jeenika">
+<img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" alt="Jeenika's linkedin profile" width="26px"/></a>
+&emsp;
+<a href="https://twitter.com/J1NNX26">
+<img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="Jeenika's twitter profile" width="26px"/></a>
+&emsp;
+<!--<a href="https://youtube.com/@bobbyiliev_">
+<img src="https://img.icons8.com/ios-filled/256/000000/youtube.svg" alt="Bobby Iliev YouTube profile" width="26px"/></a>-->
+</p>
+
+[email]: mailto:jeenikanadani96@gmail.com
+[twitter]: https://twitter.com/J1NNX26
+[linkedin]: https://www.linkedin.com/in/jeenika
+[discord]: https://www.discord.com/in/J1NX#1263
