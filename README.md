@@ -23,16 +23,6 @@ I curently work as a Cyber Security Engineer and my job is to find and fix poten
 - :zap: In my free time, I read books and listen to music.
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [discord] or [linkedin].
 
-##### RECENT BLOG POST :books:
-
-<!-- BLOG:START -->
-- [Foundational Concepts of Cyber Security Principles](https://j1nx.info/2023/05/11/foundational-concepts-of-cyber-security-principles/)
-- [A Beginner’s Guide to the Most Common IT Compliance Standards](https://j1nx.info/2023/03/10/beginners-guide-to-the-most-common-it-compliance-standards/)
-- [DNS 101: The Basics of Domain Name System](https://j1nx.info/2023/02/10/dns-101-the-basics-of-domain-name-system/)
-- [DNS 101: DNS Attacks](https://j1nx.info/2023/02/10/dns-101-dns-attacks/)
-- [Breaking Down CORS, SOP & CSP](https://j1nx.info/2023/02/04/breaking-down-cors-sop-csp/)
-<!-- BLOG:END -->
-
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=J1NNX26&theme=graywhite&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
