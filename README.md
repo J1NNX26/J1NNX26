@@ -29,23 +29,6 @@ I currently work as a Cyber Security Engineer and my job is to find and fix pote
 
 </div>
 
-<p align="center">
-<a href= "https://instagram.com/j1nnx26">
-<img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" alt="Jeenika's instagram profile" width="28px"/></a>
-&emsp;
-<a href="https://j1nx.info">
-<img src="https://img.icons8.com/material/256/000000/globe--v1.png" alt="Jeenika's Blogsite" width="28px"/></a>
-&emsp;
-<a href="https://linkedin.com/in/jeenika">
-<img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" alt="Jeenika's linkedin profile" width="26px"/></a>
-&emsp;
-<a href="https://twitter.com/J1NNX26">
-<img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="Jeenika's twitter profile" width="26px"/></a>
-&emsp;
-<!--<a href="https://youtube.com/@bobbyiliev_">
-<img src="https://img.icons8.com/ios-filled/256/000000/youtube.svg" alt="Bobby Iliev YouTube profile" width="26px"/></a>-->
-</p>
-
 [email]: mailto:j1nnx26@gmail.com
 [twitter]: https://twitter.com/J1NNX26
 [linkedin]: https://www.linkedin.com/in/jeenika
