@@ -13,7 +13,7 @@
 
 #### I am a Cyber Security Engineer from India :india:
 
-I curently work as a Cyber Security Engineer and my job is to find and fix potential security problems, so people can use the digital systems safely and securely as well make sure that digital information is protected from bad guys who want to steal or damage it.
+I currently work as a Cyber Security Engineer and my job is to find and fix potential security problems, so people can use the digital systems safely and securely as well make sure that digital information is protected from bad guys who want to steal or damage it.
 
 ##### BIO :woman_technologist:
 
@@ -46,7 +46,7 @@ I curently work as a Cyber Security Engineer and my job is to find and fix poten
 <img src="https://img.icons8.com/ios-filled/256/000000/youtube.svg" alt="Bobby Iliev YouTube profile" width="26px"/></a>-->
 </p>
 
-[email]: mailto:jeenikanadani96@gmail.com
+[email]: mailto:j1nnx26@gmail.com
 [twitter]: https://twitter.com/J1NNX26
 [linkedin]: https://www.linkedin.com/in/jeenika
 [discord]: https://www.discordapp.com/users/J1NX#1263
