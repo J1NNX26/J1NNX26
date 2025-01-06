@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm J1NX aka Jeenika</h1>
 <h3 align="center">A Cyber Security Engineer from India 🇮🇳</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j1nnx26" alt="j1nnx26" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/j1nnx26/" target="blank"><img src="https://img.shields.io/twitter/follow/j1nnx26/?logo=twitter&style=for-the-badge" alt="j1nnx26/" /></a> </p>
 
 - 📝 I regularly write articles on [(Work in progress)]((Work in progress))
