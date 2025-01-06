@@ -11,14 +11,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/J1NNX26?label=Twitter&style=social)](https://twitter.com/intent/follow?screen_name=J1NNX26) 
  
 
-I currently work as a Cyber Security Engineer and my job is to find and fix potential security problems, so people can use the digital systems safely and securely as well make sure that digital information is protected from bad guys who want to steal or damage it.
+I currently work as a Cyber Security Engineer and my job is to find and fix potential security problems, so people can use the digital systems safely and securely as well as make sure that digital information is protected from bad guys who want to steal or damage it.
 
 ##### BIO :woman_technologist:
 
 - 🌍&nbsp;&nbsp; I'm mostly active on the **Twitter & Linkedin**
-- 🌱&nbsp;&nbsp; Exploring Technical Content Writing
+- 🌱&nbsp;&nbsp; Exploring Technical Content Writing {Coming Soon}
 - ⚡️&nbsp;&nbsp; Fun fact: I am a cat mommy 🐱‍💻. ALso, I’m on a mission to become the best female hacker in the world, while secretly planning to own a Mini Cooper and a stash of diamonds—because why not secure systems and sparkle?
-- :zap: In my free time, I read books and listen to music.
+- 📝&nbsp;&nbsp; In my free time, I read books and listen to music.
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [discord] or [linkedin].
 
 <div align="center">
