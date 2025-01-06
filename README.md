@@ -17,7 +17,7 @@ I currently work as a Cyber Security Engineer and my job is to find and fix pote
 
 - 🌍&nbsp;&nbsp; I'm mostly active on the **Twitter & Linkedin**
 - 🌱&nbsp;&nbsp; Exploring Technical Content Writing {Coming Soon}
-- ⚡️&nbsp;&nbsp; Fun fact: I am a cat mommy 🐱‍💻. ALso, I’m on a mission to become the best female hacker in the world, while secretly planning to own a Mini Cooper and a stash of diamonds—because why not secure systems and sparkle?
+- ⚡️&nbsp;&nbsp; Fun fact: I am a cat owner 🐱‍💻. ALso, I’m on a mission to become the best female hacker in the world, while secretly planning to own a Mini Cooper and a stash of diamonds—because why not secure systems and sparkle?
 - 📝&nbsp;&nbsp; In my free time, I read books and listen to music.
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [discord] or [linkedin].
 
