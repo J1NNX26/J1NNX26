@@ -3,7 +3,7 @@
 
 I currently work as a Cyber Security Engineer and my job is to find and fix potential security problems, so people can use the digital systems safely and securely as well as make sure that digital information is protected from bad guys who want to steal or damage it.
 
-- 📝 I regularly write articles on [(Work in progress)]((Work in progress))
+- 📝 I regularly write articles on {Work in progress}.
 
 - 📫 How to reach me **j1nnx26@gmail.com**
 
@@ -16,3 +16,10 @@ I currently work as a Cyber Security Engineer and my job is to find and fix pote
 <a href="https://instagram.com/j1nnx26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j1nnx26" height="30" width="40" /></a>
 <a href="https://discord.gg/j1nx26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="j1nx26" height="30" width="40" /></a>
 </p>
+
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=J1NNX26&theme=graywhite&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
