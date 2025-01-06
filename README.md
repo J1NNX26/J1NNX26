@@ -16,5 +16,3 @@ I currently work as a Cyber Security Engineer and my job is to find and fix pote
 <a href="https://instagram.com/j1nnx26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j1nnx26" height="30" width="40" /></a>
 <a href="https://discord.gg/j1nx26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="j1nx26" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j1nnx26&show_icons=true&locale=en" alt="j1nnx26" /></p>
